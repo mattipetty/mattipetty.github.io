@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to my page we will get started soon on posting ideas.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+However at the moment just check out my github page. 
